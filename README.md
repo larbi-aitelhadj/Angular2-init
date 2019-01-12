@@ -9,7 +9,7 @@ Suivez les étapes au dessous une par une, et il va falloir installer nodeJS d'a
 
 1: Clone repo
 ```
-git clone https://github.com/IDBRAHIMDEV/angular-2.git
+git clone https://github.com/larbi-aitelhadj/Angular2-init.git
 ```
 2: Install packages
 ```
